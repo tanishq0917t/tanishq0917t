@@ -23,8 +23,8 @@
 - ⚡ My Skills-: C/C++ Java Python J2EE JavaScript DS & Algo
 
 - 📫 How to reach me: 
-        <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: divy.jain6200@gmail.com 
-        <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mb. No.: 9329940041<br /><br />
+        <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: tanishqrawat8@gmail.com 
+        <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mb. No.: 8982416479<br /><br />
 
 - 😄 Pronouns: He/Him
 
@@ -33,7 +33,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-17102001)](https://github.com/tanishq-17102001/github-readme-stats)
 
 
-[![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyjain62000&count_private=true)](https://github.com/divyjain62000/github-readme-stats)
+[![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyjain62000&count_private=true)](https://github.com/tanishq-17102001/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyjain62000)](https://github.com/divyjain62000/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyjain62000)](https://github.com/tanishq-17102001/github-readme-streak-stats)
