@@ -33,7 +33,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-17102001)](https://github.com/tanishq-17102001/github-readme-stats)
 
 
-[![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyjain62000&count_private=true)](https://github.com/tanishq-17102001/github-readme-stats)
+[![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishq-172001&count_private=true)](https://github.com/tanishq-17102001/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyjain62000)](https://github.com/tanishq-17102001/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishq17102001)](https://github.com/tanishq-17102001/github-readme-streak-stats)
