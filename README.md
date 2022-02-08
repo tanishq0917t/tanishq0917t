@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋 I am a full stack developer and a pre-final year Computer Science and Engineering student</h1>
 <h3 align="center">🔭 I’m currently interning with Cerebry, Singapore (Aug 2021-Present)</h3>
+<p align="Center"> <img src="https://st3.depositphotos.com/3382541/13326/v/600/depositphotos_133260890-stock-illustration-programmer-sitting-on-big-laptop.jpg" width="400px" height="300px" /> </p>
 <p align="Center"> <img src="https://user-images.githubusercontent.com/82946769/149862468-5ea9785c-ac22-4967-94ae-45d87d04ac49.png" width="400px" height="300px" /> </p>
 
 
