@@ -19,8 +19,8 @@
     <img src="https://user-images.githubusercontent.com/82946769/147458619-45fb61e2-12f6-4103-a83f-b2249cd893f1.png" width="70px"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/82946769/147460120-0d713aa5-4acf-419b-ae1e-4ed45e888643.png" width="70px"/>&nbsp;&nbsp;</p>
 
-- 🌱 I’m currently learning **Cloud Computing**
-- ⚡ My Skills-: C/C++ Java Python J2EE JavaScript DS & Algo
+- 🌱 I’m currently learning **Cloud Computing & React**
+- ⚡ My Skills-: C/C++ Java Python J2EE JavaScript React Jquery DS & Algo
 
 - 📫 How to reach me: 
         <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: tanishqrawat8@gmail.com 
