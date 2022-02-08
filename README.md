@@ -30,7 +30,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divyjain62000)](https://github.com/divyjain62000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-17102001)](https://github.com/tanishq-17102001/github-readme-stats)
 
 
 [![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=divyjain62000&count_private=true)](https://github.com/divyjain62000/github-readme-stats)
