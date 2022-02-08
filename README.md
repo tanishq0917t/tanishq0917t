@@ -17,9 +17,7 @@
     <img src="https://user-images.githubusercontent.com/82946769/147458205-78d18e54-293a-46eb-93e5-06ed3cc7efa1.png" width="80px"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/82946769/147458294-63eb3a70-9f7c-46a7-aaec-ee10f4fbbe5b.png" width="100px"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/82946769/147458619-45fb61e2-12f6-4103-a83f-b2249cd893f1.png" width="70px"/>&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/82946769/147460120-0d713aa5-4acf-419b-ae1e-4ed45e888643.png" width="70px"/>&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/82946769/147460218-4aabfff2-8262-437f-8073-b14e71e31b07.png" width="70px"/>&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/82946769/147460417-b7125f2d-7ee3-4caa-a1c8-79cffdd36180.png" width="70px"/>&nbsp;&nbsp;</p>
+    <img src="https://user-images.githubusercontent.com/82946769/147460120-0d713aa5-4acf-419b-ae1e-4ed45e888643.png" width="70px"/>&nbsp;&nbsp;</p>
 
 - 🌱 I’m currently learning **Cloud Computing**
 - ⚡ My Skills-: C/C++ Java Python J2EE JavaScript DS & Algo
