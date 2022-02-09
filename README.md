@@ -14,7 +14,6 @@
     <img src="https://user-images.githubusercontent.com/82946769/147457557-ffc20fa9-4138-4ee1-a2af-2b513ddf6583.png" width="50px"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/82946769/147457875-344e6c4a-ff71-4e87-92fe-8a11e9f55bd5.png" width="80px"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/82946769/147458205-78d18e54-293a-46eb-93e5-06ed3cc7efa1.png" width="80px"/>&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/82946769/147458619-45fb61e2-12f6-4103-a83f-b2249cd893f1.png" width="70px"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/82946769/147460120-0d713aa5-4acf-419b-ae1e-4ed45e888643.png" width="70px"/>&nbsp;&nbsp;</p>
 
 - 🌱 I’m currently learning **Cloud Computing & React**
