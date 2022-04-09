@@ -13,7 +13,9 @@
     <img src="https://user-images.githubusercontent.com/82946769/147457279-ae0a0cd8-d7ef-4617-8a83-172e553c09da.png" width="50px"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/82946769/147457875-344e6c4a-ff71-4e87-92fe-8a11e9f55bd5.png" width="80px"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/82946769/147458205-78d18e54-293a-46eb-93e5-06ed3cc7efa1.png" width="80px"/>&nbsp;&nbsp;
-    <img src="https://user-images.githubusercontent.com/82946769/147460120-0d713aa5-4acf-419b-ae1e-4ed45e888643.png" width="70px"/>&nbsp;&nbsp;</p>
+    <img src="https://user-images.githubusercontent.com/82946769/147460120-0d713aa5-4acf-419b-ae1e-4ed45e888643.png" width="70px"/>&nbsp;&nbsp;
+    <img src="https://github.com/tanishq-17102001/tanishq-17102001/blob/main/aws.png" width="70px"/>&nbsp;&nbsp;
+</p>
 
 - 🌱 I’m currently learning **Cloud Computing**
 
