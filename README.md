@@ -34,3 +34,17 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishq-17102001)](https://github.com/tanishq-17102001/github-readme-streak-stats)
+
+## Connect with me:
+<p align="left">
+<a href = "https://www.instagram.com/tanishqrawat/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=tanishq-17102001">
+</a>
+<a href="https://github.com/tanishq-17102001?tab=followers"><img src="https://img.shields.io/github/followers/tanishq-17102001?label=Followers&style=social" alt="GitHub Badge"></a>
+
