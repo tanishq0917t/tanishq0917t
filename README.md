@@ -41,6 +41,6 @@
 </a>
 <a href = "https://www.linkedin.com/in/tanishqrawat1710h/"><img src="https://github.com/tanishq-17102001/tanishq-17102001/blob/main/icons8-linkedin-circled-48.png"></a>
 </a>
-<a href = "[https://www.linkedin.com/in/tanishqrawat1710h/](https://tanishqrawat1710h.medium.com/)"><img src="https://github.com/tanishq-17102001/tanishq-17102001/blob/main/icons8-medium-64%20(1).png"></a>
+<a href = "(https://tanishqrawat1710h.medium.com/)"><img src="https://github.com/tanishq-17102001/tanishq-17102001/blob/main/icons8-medium-64%20(1).png"></a>
 </p>
 
