@@ -39,12 +39,7 @@
 <p align="left">
 <a href = "https://www.instagram.com/tanishqrawat/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=tanishq-17102001">
+<a href = "https://www.linkedin.com/in/tanishqrawat1710h/"><img src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/></a>
 </a>
-<a href="https://github.com/tanishq-17102001?tab=followers"><img src="https://img.shields.io/github/followers/tanishq-17102001?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
