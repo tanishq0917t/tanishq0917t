@@ -39,7 +39,7 @@
 <p align="left">
 <a href = "https://www.instagram.com/tanishqrawat/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </a>
-<a href = "https://www.linkedin.com/in/tanishqrawat1710h/"><img src="https://img.icons8.com/color/344/linkedin-circled--v1.png"/></a>
+<a href = "https://www.linkedin.com/in/tanishqrawat1710h/"><img src="https://github.com/tanishq-17102001/tanishq-17102001/blob/main/icons8-linkedin-circled-48.png"/></a>
 </a>
 </p>
 
