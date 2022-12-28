@@ -14,7 +14,7 @@
     <img src="https://user-images.githubusercontent.com/82946769/147457875-344e6c4a-ff71-4e87-92fe-8a11e9f55bd5.png" width="80px"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/82946769/147458205-78d18e54-293a-46eb-93e5-06ed3cc7efa1.png" width="80px"/>&nbsp;&nbsp;
     <img src="https://user-images.githubusercontent.com/82946769/147460120-0d713aa5-4acf-419b-ae1e-4ed45e888643.png" width="70px"/>&nbsp;&nbsp;
-    <img src="https://github.com/tanishq-17102001/tanishq-17102001/blob/main/aws.png" width="70px"/>&nbsp;&nbsp;
+    <img src="https://github.com/tanishq1710h/tanishq1710h/blob/main/aws.png" width="70px"/>&nbsp;&nbsp;
 </p>
 
 - 🌱 I’m currently learning **Cloud Computing**
@@ -27,13 +27,13 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-17102001)](https://github.com/tanishq-17102001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq1710h)](https://github.com/tanishq1710h/github-readme-stats)
 
 
-[![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishq-17102001&count_private=true)](https://github.com/tanishq-17102001/github-readme-stats)
+[![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishq1710h&count_private=true)](https://github.com/tanishq1710h/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishq-17102001)](https://github.com/tanishq-17102001/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tanishq1710h)](https://github.com/tanishq1710h/github-readme-streak-stats)
 
 ## Connect with me:
 <p align="left">
