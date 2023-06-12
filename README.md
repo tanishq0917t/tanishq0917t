@@ -17,7 +17,7 @@
     <img src="https://github.com/tanishq1710h/tanishq1710h/blob/main/aws.png" width="70px"/>&nbsp;&nbsp;
 </p>
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me: 
         <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email: tanishqrawat8@gmail.com 
