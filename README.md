@@ -1,6 +1,5 @@
-<h1 align="center">Hi there 👋 I am Associate Software Engineer at Mobileum</h1>
+<h1 align="center">Hi there 👋 I am Software Engineer at Mobileum</h1>
 <h3 align="center">🔭 I interned with Cerebry, Singapore (Aug 2021-Feb 2022)</h3>
-<p align="Center"> <img src="https://st3.depositphotos.com/3382541/13326/v/600/depositphotos_133260890-stock-illustration-programmer-sitting-on-big-laptop.jpg" width="400px" height="300px" /> </p>
 
 <h3 align="left">Languages and Tools Known:</h3>
 <p> <img src="https://user-images.githubusercontent.com/82946769/147456479-5876d343-ebac-4f16-a2ed-3a51c3b68631.png" width="50px" />&nbsp;&nbsp;
