@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 I am Software Engineer at Mobileum</h2>
+<h2 align="center">Hi there 👋 I am a Software Engineer at Mobileum</h2>
 
 <h3 align="left">Languages and Tools Known:</h3>
 <p> 
