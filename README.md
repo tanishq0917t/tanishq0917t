@@ -1,5 +1,4 @@
-<h2 align="center">Hi there 👋 I am Software Engineer at Mobileum(Aug 2022-Present)</h2>
-<h3 align="center">🔭 I interned with Cerebry, Singapore (Aug 2021-Feb 2022)</h3>
+<h2 align="center">Hi there 👋 I am Software Engineer at Mobileum</h2>
 
 <h3 align="left">Languages and Tools Known:</h3>
 <p> 
